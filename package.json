@@ -1,0 +1,24 @@
+{
+  "name": "twitter_analyitics",
+  "version": "1.0.0",
+  "description": "Analytics service for node",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyMVP/twitter_analysis.git"
+  },
+  "keywords": [
+    "analytics",
+    "twitter",
+    "python"
+  ],
+  "author": "Marin VlasteLica Pogancic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmyMVP/twitter_analysis/issues"
+  },
+  "homepage": "https://github.com/JimmyMVP/twitter_analysis#readme"
+}
