@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JimmyMVP/twitter_analysis/issues"
   },
-  "homepage": "https://github.com/JimmyMVP/twitter_analysis#readme"
+  "homepage": "https://github.com/JimmyMVP/twitter_analysis#readme",
+  "dependencies": {
+    "seneca": "^2.1.0"
+  }
 }
